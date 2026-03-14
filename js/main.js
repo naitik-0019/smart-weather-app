@@ -1,5 +1,5 @@
 // ================= CONFIG =================
-const apiKey = "1e3e8f230b6064d27976e41163a82b77";
+const apiKey = "518d8bd3f939d22a13f4075e71037965";
 
 // ================= THEME TOGGLE =================
 const themeBtn = document.getElementById("themeToggle");
